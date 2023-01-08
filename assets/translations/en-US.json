@@ -1,0 +1,6 @@
+{
+    "title" : "What are you going to do today?",
+    "empty_taks_list": "Let's add a task",
+    "add_task": "What is the task?",
+    "remove_task" : "This task was removed"
+}
